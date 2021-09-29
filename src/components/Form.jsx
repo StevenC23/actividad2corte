@@ -113,7 +113,7 @@ const Form = () => {
           <tr>
             <th>Tarea</th>
             <th>Estado</th>
-            <th>Acciones</th>
+            <th>Opciones</th>
           </tr>
         </thead>
         <tbody>
